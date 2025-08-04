@@ -1,7 +1,7 @@
 # 📱 Fundraising Intern Portal — Flutter Internship Round 1
 
 Hello! 👋  
-This is my submission for the **Flutter Development Internship — Round 1 Task**.
+This is my submission for the **Flutter Development Internship[ She Can! Foundation] — Round 1 Task**.
 
 This Flutter app is a **prototype** of a simple fundraising intern portal.  
 It uses **dummy/mock data** only — no backend or real authentication.  
