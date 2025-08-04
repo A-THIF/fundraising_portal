@@ -1,11 +1,3 @@
-Perfect — here’s a **ready-to-use, clean, internship-appropriate `README.md`** you can copy for your **fundraising intern portal Flutter app**.
-This ticks all the points the internship expects: clarity, what’s built, dummy data, no backend, how to run, and screenshots (optional).
-
----
-
-## ✅ **Sample `README.md`**
-
-````md
 # 📱 Fundraising Intern Portal — Flutter Internship Round 1
 
 Hello! 👋  
