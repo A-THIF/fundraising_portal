@@ -1,8 +1,3 @@
-Perfect! Here’s your **clean, ready-to-paste `README.md`** for your **Fundraising Intern Portal** — with working image links and neat formatting:
-
----
-
-````markdown
 # 📱 Fundraising Intern Portal — Flutter Internship Round 1
 
 Hello! 👋  
